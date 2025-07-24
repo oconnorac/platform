@@ -1,5 +1,5 @@
 ---
 service_name: Authentication
-env: prod
+env: staging
 deploy:
   type: simple
